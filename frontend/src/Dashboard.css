@@ -1,0 +1,17 @@
+.dashboard {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .sidebar {
+    width: 200px;
+    background-color: #f4f4f4;
+    /* Add more styling */
+  }
+  
+  .dashboard-main {
+    flex: 1;
+    padding: 20px;
+    /* Add more styling */
+  }
+  
